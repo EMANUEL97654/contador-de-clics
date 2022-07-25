@@ -5,7 +5,7 @@
 }
 
 html,body{
-  background-color: #1b1b32;
+  background-image: linear-gradient(to right, #94a6c4 0%, #31657e 51%, #2b65c4 100%);
 }
 
 .App{
@@ -26,3 +26,4 @@ html,body{
   align-items: center;
   justify-content: center;
 }
+
