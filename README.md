@@ -1,4 +1,4 @@
-# 📌 Contador de Clics
+# Contador de Clics
 ¡Hola! Esta es una aplicación desarrollada con React, un contador de clics interactivo que incrementa el contador al hacer clic en un botón. El contador se reinicia si se hace clic en el botón reiniciar. 
 
 Esta aplicacion fue creada por Emanuel Gonzalez Gartland.
